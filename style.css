@@ -1,0 +1,78 @@
+﻿body
+{
+	background: url('https://lokan.jp/wp-content/uploads/2017/12/iMac-Pro-Wallpaper-1280x720@2x.jpg') black;
+	background-size: cover;
+	background-attachment: fixed;
+	top:0;
+	left:0;
+	z-index: -5;
+	width: 99%;
+	height: 100%;
+	font-size: 22px;
+	font-family: “Open Sans”, sans-serif;
+	color: white;
+	align-items: center;
+}
+
+/* font-family: 'Pacifico', cursive; */
+
+header{
+	position: fixed;
+	width: 99%;
+	height: 10%;
+}
+
+h1 {
+	font-size: 32px;
+	color: navy;
+}
+h2 {
+	top: 0;
+	left: 25;
+}
+
+h5 {
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+.align{
+	display: flex;
+}
+
+.petit{
+	width: 35px;
+	height: 25px;
+}
+
+.center{
+	/* background-color: aquamarine; */
+	text-align: center;
+	width: 100%;
+}
+
+.background{
+	background-attachment: fixed;
+	margin-left: auto;
+	z-index: -3;
+}
+
+.iframe{
+	margin-left: 14%;
+}
+
+.image{
+	height: 200px;
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bande_noir{
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 50%;
+	margin-left: 25%;
+}
