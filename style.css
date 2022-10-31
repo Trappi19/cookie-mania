@@ -22,13 +22,10 @@ header{
 	height: 10%;
 }
 
-h1 {
-	font-size: 32px;
-	color: navy;
-}
-h2 {
-	top: 0;
-	left: 25;
+h1{
+	font-size: 18px;
+	margin-top: 0px;
+	color : rgb(10, 176, 232)
 }
 
 h5 {
@@ -44,13 +41,18 @@ h5 {
 
 .petit{
 	width: 35px;
-	height: 25px;
+	height: 35px;
 }
 
 .center{
 	/* background-color: aquamarine; */
 	text-align: center;
 	width: 100%;
+}
+
+p1{
+	margin-left: 70%;
+	font-family: 'Pacifico', cursive;
 }
 
 .background{
@@ -73,6 +75,6 @@ h5 {
 
 .bande_noir{
 	background-color: rgba(0, 0, 0, 0.5);
-	width: 50%;
-	margin-left: 25%;
+	width: 60%;
+	margin-left: 20%;
 }
